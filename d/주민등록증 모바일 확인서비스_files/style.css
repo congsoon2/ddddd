@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Lisu+Bosa:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lisu+Bosa:wght@200&family=Noto+Sans+Multani&display=swap');
+@font-face {
+    font-family: 'LINESeedKR-Bd';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/LINESeedKR-Bd.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NEXON Lv1 Gothic OTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ChosunBg';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@1.0/ChosunBg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ChosunKg';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@1.0/ChosunKg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KBIZHanmaumGothic';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/KBIZHanmaumGothic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Eoe_Zno_EB';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_eight@1.0/Eoe_Zno_EB.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}    
+
+.nomb1 {
+    font-family: 'Noto Sans Multani', sans-serif;
+    font-size: 19px;
+}
+
+.nomb2 {
+    font-family: 'Noto Sans Multani', sans-serif;
+    font-size: 20px;
+}
+
+.nomb3 {
+    font-family: 'Noto Sans Multani', sans-serif;
+    font-size: 20px;
+}
+
+.nomb4 {
+    font-family: 'NEXON Lv1 Gothic OTF';
+    font-size: 26px;
+}
+
+
+
+
+
+
+
+
+
+
+
